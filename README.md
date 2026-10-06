@@ -48,6 +48,15 @@ This project is part of the **Anti-AI Qwen Academy** initiative, focusing on cri
 *   **Local Storage Only:** Progress (answers, checklist state) is saved temporarily in your browser's local storage and resets upon page reload unless configured otherwise.
 *   **Open Source:** Code is available for inspection and contribution.
 
+
+
+## 🤝 Support the Project
+
+The Anti-AI Qwen Academy provides free tools for education and digital sovereignty. If you find this useful, consider supporting the development:
+
+*   [Visit Catalog of Offline Apps](https://ancf-hue.github.io/)
+*   Donate via phone transfer: **8-920-227-56-76**
+
 ## 🤝 ПОДДЕРЖАТЬ ПРОЕКТ 💙 Приложение бесплатное. Было и останется.
 
 Если проект помог вам или вашим близким — можете поддержать разработку добровольным переводом.
